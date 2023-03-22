@@ -10,7 +10,7 @@ We can perform various CRUD operations Using this API.
 
 ### All url's are mentioned below for performing the opreation using api
 
-============================================================================================
+===========================================================================
 **For Performing Operations in Product Class :-**                                                                                                                                
 x------------------------------------------------------------------x                                                                                                                                                               
                                                                                                                                                                                                                                                            
@@ -40,7 +40,7 @@ Search Product by Name Starting wih ---  http://localhost:8080/product/search/pr
 Search Product by Name Ending with ---  http://localhost:8080/product/search/productdetailsbynameendwith/{String suffix}                                                                                                                                                                   
 Search Product by Name Containing --- http://localhost:8080/product/search/productdetailsbynamecontaining/{String infix}
 
-============================================================================================
+===========================================================================
 **For Performing Operations in Brand Class :-**                                                                                                                                                                   
 x----------------------------------------------------------------x
 
@@ -54,8 +54,8 @@ Delete Product by Brand ID --- http://localhost:8080/brand/deleteproductbybrandi
 Delete All Brands --- http://localhost:8080/brand/deleteall                                                                                                                                                                   
 Update Brand by ID --- http://localhost:8080/brand/updatebrandbyid/1
 
-============================================================================================
-**For Performing Operations in Brand Class :-**                                                                                                                                                                   
+===========================================================================
+**For Performing Operations in Color Class :-**                                                                                                                                                                   
 x------------------------------------------------------------------x
 
 Add Color --- http://localhost:8080/color/add                                                                                                                                                                   
@@ -68,7 +68,7 @@ Delete All Colors --- http://localhost:8080/color/deleteall
 Update Color by ID --- http://localhost:8080/color/updatecolorbyid/1
 
 
-============================================================================================
+===========================================================================
 
 
 
